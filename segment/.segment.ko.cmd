@@ -1,0 +1,1 @@
+cmd_/home/pi/segment/segment.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/pi/segment/segment.ko /home/pi/segment/segment.o /home/pi/segment/segment.mod.o;  true
