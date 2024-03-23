@@ -10,6 +10,7 @@ Am 16.03.2024 durfte ich einen Linux Treiber Workshop auf den [Chemnitzer Linuxt
 - segment: Treiber für eine 7 Segmentanzeige und einem Taster
 - pcb: Schaltplan und Layout für die verwendete Adapterplatine
 - treiber_workshop.pdf: PDF mit Folien für den Workshop
+- gpio.c: Programm zur Ansteuerung eines GPIO Pins im Userspace 
 
 ## Video
 
